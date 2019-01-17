@@ -1,2 +1,2 @@
-# BookStore
+# BookStores
 ExpressJS, MongoDB, ReactJS 
